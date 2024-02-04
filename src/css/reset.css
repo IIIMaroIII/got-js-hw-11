@@ -1,16 +1,6 @@
-/* Reset styles */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
+body {
   margin: 0;
-}
-
-p:last-child {
-  margin-bottom: 0;
+  padding-top: 36px;
 }
 
 ul {
@@ -32,4 +22,7 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+input {
+  box-sizing: border-box;
 }
