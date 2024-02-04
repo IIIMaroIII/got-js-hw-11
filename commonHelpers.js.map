@@ -1,0 +1,1 @@
+{"version":3,"file":"commonHelpers.js","sources":["../src/js/form.js"],"sourcesContent":["const refs = {\n  form: document.querySelector('.form'),\n  btn: document.querySelector('.form--btn'),\n};\n\nconsole.log(refs.btn);\n"],"names":["refs"],"mappings":"ssBAAA,MAAMA,EAAO,CACX,KAAM,SAAS,cAAc,OAAO,EACpC,IAAK,SAAS,cAAc,YAAY,CAC1C,EAEA,QAAQ,IAAIA,EAAK,GAAG"}
